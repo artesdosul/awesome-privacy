@@ -20,6 +20,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/liss-bot">
+            <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
+            <br />
+            <sub><b>Alicia Bot</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/KieranRobson">
             <img src="https://avatars.githubusercontent.com/u/32241933?v=4" width="80;" alt="KieranRobson"/>
             <br />
@@ -31,13 +38,6 @@
             <img src="https://avatars.githubusercontent.com/u/78992082?v=4" width="80;" alt="lilithium-hydride"/>
             <br />
             <sub><b>Lilith</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/liss-bot">
-            <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
-            <br />
-            <sub><b>Alicia Bot</b></sub>
         </a>
     </td>
     <td align="center">
