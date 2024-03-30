@@ -99,6 +99,13 @@
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/araguaci">
+            <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
+            <br />
+            <sub><b>araguaci</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/colenh">
             <img src="https://avatars.githubusercontent.com/u/40342475?v=4" width="80;" alt="colenh"/>
             <br />
