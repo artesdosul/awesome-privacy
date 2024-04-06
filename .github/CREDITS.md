@@ -102,7 +102,7 @@
         <a href="https://github.com/araguaci">
             <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
             <br />
-            <sub><b>araguaci</b></sub>
+            <sub><b>Araguaci</b></sub>
         </a>
     </td>
     <td align="center">
